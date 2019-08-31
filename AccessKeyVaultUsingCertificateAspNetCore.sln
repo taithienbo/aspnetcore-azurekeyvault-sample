@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessKeyVaultUsingCertificateAspNetCore", "AccessKeyVaultUsingCertificateAspNetCore.csproj", "{B92AF699-5049-45EE-99EE-A4B5A97728B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92AF699-5049-45EE-99EE-A4B5A97728B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92AF699-5049-45EE-99EE-A4B5A97728B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92AF699-5049-45EE-99EE-A4B5A97728B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92AF699-5049-45EE-99EE-A4B5A97728B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
