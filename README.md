@@ -12,4 +12,4 @@ To try out the example, first need to replace the values in the Startup file.
   }
 ```
 
-Checkout the accompaning [blog post] for more info. (https://www.taithienbo.com/access-azure-key-vault-from-an-aspnetcore-app-on-iis-using-x509-certificate/)
+Checkout the accompaning [blog post](https://www.taithienbo.com/access-azure-key-vault-from-an-aspnetcore-app-on-iis-using-x509-certificate/) for more info. 
